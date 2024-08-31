@@ -19,3 +19,8 @@ git branch -M name
 # for push our code 
 git push origin main
 here main is branch name
+
+# if we write 
+git push -u origin main
+it means we are declaring origin as main
+than we can arite only "git push"
