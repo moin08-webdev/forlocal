@@ -1,0 +1,21 @@
+# from local
+
+for push local repo to remote
+first make directory on github account
+
+and than use 
+
+# use: git add origin main <link>
+
+# for verify above process use
+git remote -v
+
+# for check branch
+git branch
+
+# for rename branch
+git branch -M name
+
+# for push our code 
+git push origin main
+here main is branch name
