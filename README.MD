@@ -28,3 +28,10 @@ than we can arite only "git push"
 # note 
 if we have modified a file and we havnt made anew file so we can add and commit together by using 
 git commit -am "some messaege"
+
+# branches
+
+<for rename branch> git branch -M name
+<for checkout> git checkout "branchname" <!--it means you can change branch by usng this -->
+<for make new branch> git checkout -b "new branch name"
+<for delete asny branch> git branch -d "branch name"
