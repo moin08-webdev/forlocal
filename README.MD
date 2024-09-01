@@ -24,3 +24,7 @@ here main is branch name
 git push -u origin main
 it means we are declaring origin as main
 than we can arite only "git push"
+
+# note 
+if we have modified a file and we havnt made anew file so we can add and commit together by using 
+git commit -am "some messaege"
