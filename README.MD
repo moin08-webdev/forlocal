@@ -44,4 +44,6 @@ git commit -am "some messaege"
   2. to merge with help of git
   git merge <branch name>
   3. we can merge with PR(pull request)
-  from github
+  from github < when we make PR in github the side branch merges to main branch in github but
+    in our local system nothing chenges ocurrs so merge branches in local system we use pull command>
+    <git pull origin main>
