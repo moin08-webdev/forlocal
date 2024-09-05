@@ -47,3 +47,10 @@ git commit -am "some messaege"
   from github < when we make PR in github the side branch merges to main branch in github but
     in our local system nothing chenges ocurrs so merge branches in local system we use pull command>
     <git pull origin main>
+
+<fixing mistakes>
+
+if accidentaly we add any file which we dont wanted to add we can reser it using
+<git reset "file name">
+for every file 
+<git reser>
